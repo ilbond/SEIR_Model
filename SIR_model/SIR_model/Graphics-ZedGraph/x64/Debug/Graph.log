@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\reposd\SIR_model\SIR_model\Graphics-ZedGraph\MyForm.h(544,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\reposd\SIR_model\SIR_model\Graphics-ZedGraph\MyForm.h(563,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\reposd\SIR_model\SIR_model\Graphics-ZedGraph\MyForm.h(578): warning C4700: использована неинициализированная локальная переменная "E"
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Graph.vcxproj -> D:\reposd\SIR_model\SIR_model\Graphics-ZedGraph\x64\Debug\Graph.exe
